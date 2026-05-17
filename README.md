@@ -1,0 +1,1 @@
+Movie RAG Chatbot is an AI-powered application built using Python, LangChain, FAISS, Hugging Face embeddings, Groq LLM, and Streamlit. It uses Retrieval-Augmented Generation (RAG) to provide context-aware movie recommendations and answers through semantic search and vector-based information retrieval from a custom movie dataset.
